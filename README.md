@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m Xuekai Niu, currently working as Senior Software Engineer at Shopee, shenzhen.
+
+<https://xkniu.github.io>
+
+
 <!--
 **xkniu/xkniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
