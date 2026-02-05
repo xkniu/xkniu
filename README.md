@@ -2,13 +2,9 @@
 
 90s Gen | HUST | Living in Shanghai
 
----
-
 💻 **Engineering**
 
 Former backend engineer at **Meituan, Shopee, Ant**
-
----
 
 📖 **Blog**
 
